@@ -237,6 +237,8 @@ text-align: end;
   cursor: pointer;
 }
 .banner-desc .left h3{
+  position:relative; 
+  z-index: 2 ;
   font-weight: 900;
   font-size: 80px;
   margin-left: 25px;
